@@ -93,7 +93,7 @@ def get_config(filename):
     [config]
     client_id = abc123
     secret = ABC123ABC123
-    user_agent = linux:com.github.shaleh.dailyprogrammer:0.1.0 (by /u/shaleh)
+    user_agent = My Cool Scipt
     levels = intermediate,hard
     '''
     parser = ConfigParser(interpolation=None)
