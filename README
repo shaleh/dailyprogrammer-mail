@@ -1,0 +1,6 @@
+A PRAW based script to grab the latest /r/dailyprogrammer challenges and store
+them in a maildir mailbox.
+
+The script is painless to use. Just make a config file in usual ini format.
+
+dailyprogrammer -c /path/to/config.ini --today /path/to/maildir/
